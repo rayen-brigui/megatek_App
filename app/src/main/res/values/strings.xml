@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Megatek</string>
+    <string name="login_text">Login</string>
+    <string name="signup_text">Sign up</string>
+    <string name="confirmPassword">ConfirmPassword</string>
+    <string name="name">Name</string>
+    <string name="family_name">Family Name</string>
+    <string name="gotosignup">I do not have an account yet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
